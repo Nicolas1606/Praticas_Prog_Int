@@ -1,0 +1,1 @@
+insert into usuario (id, login, nome, senha) values (1, 'pratprog', 'USJT', '1234')
